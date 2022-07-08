@@ -1,4 +1,4 @@
-## Oiii eu sou a Laryssa Sousa, Graduando em Sistemas de Informação!!!
+## Oiii eu sou a Laryssa Sousa 👋
 
 <div align="center">
   <a href="https://github.com/LaryssaM17">
