@@ -1,7 +1,6 @@
 ### Oiii eu sou a Laryssa Sousa ✌
 ##
 
-- 👩‍💻 Desenvolvedora Backend Júnior
 - 📚 Estou estudando atualmente Python
 - 📈 Banco de Dados: SQL Server e PostgreSQL
 
