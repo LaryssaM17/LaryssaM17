@@ -2,8 +2,8 @@
 ##
 
 - 👩‍💻 Desenvolvedora Backend Júnior
-- 📚 Estou estudando atualmente JAVA
-- 📈 Banco de Dados: SQL Server e MySQL
+- 📚 Estou estudando atualmente Python
+- 📈 Banco de Dados: SQL Server e PostgreSQL
 
 <div align="center">
   <a href="https://github.com/LaryssaM17">
